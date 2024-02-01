@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  DispatchWorkItem
+//  Timer
 //
 //  Created by white4ocolate on 01.02.2024.
 //
